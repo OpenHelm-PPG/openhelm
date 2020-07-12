@@ -2,7 +2,7 @@ OpenHelm PPG
 ===
 **An alternative communication solution on your helmet and headset for PPG pilot**
 ## Introduction
-I found that the existing solution is either very expensive or involve too many component to archive what I need, so I decide to start this project and make it open-source as my contribution to PPG community
+I found that the existing solution is either very expensive or involve too many components to achieve what I need, so I decided to start this project and make it open-source as my contribution to PPG community.
 
 ## v1 Design objective (work in progress)
 - Record audio from 2 sources (Mic and Radio) to GoPro
