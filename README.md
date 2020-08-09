@@ -4,7 +4,20 @@ OpenHelm PPG
 ## Introduction
 I found that the existing solution is either very expensive or involve too many components to achieve what I need, so I decided to start this project and make it open-source as my contribution to PPG community.
 
-## v1 Design objective (work in progress)
+## v2 (09/08/20)
+The design objective remain the same with v1, but this version is mainly to fix major in v1
+- Fix amplifier oscillation
+- Reduce power supply noise due to charging GoPro
+- Fix Radio input mixing audio and add mixing gain POT
+
+![Schema](v2/schema.png)
+![Top](v2/3d-top.png)
+![Bottom](v2/3d-bottom.png)
+
+I'm still waiting the new PCB to arrive.
+
+
+## v1 Design objective
 - Record audio from 2 sources (Mic and Radio) to GoPro
 - Sidetone with volume control
 - Keep current my Kenwood 2pin headset unmodified
@@ -27,5 +40,5 @@ I found that the existing solution is either very expensive or involve too many 
 
 
 ## backlog feature for next version
-- Add bluetooth modile
+- Add bluetooth module
 
