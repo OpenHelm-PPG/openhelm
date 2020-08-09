@@ -1,0 +1,35 @@
+Comment,Description,Designator,Footprint,Package / Case,Supplier 1,Supplier Part Number 1
+330pF,"Multilayer Ceramic Capacitors MLCC - SMD/SMT 330pF 50V 0805 RoHS
+","C1, C4",CAP 0805_2012,0805 (2012 Metric),LCSC,C51207
+100nF,"Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF 50V 0805 RoHS
+","C2, C5, C10, C14, C16, C18",CAP 0805_2012,0805 (2012 Metric),LCSC,C49678
+22uF,"Multilayer Ceramic Capacitors MLCC - SMD/SMT 22uF 25V 0805 RoHS
+","C3, C15, C19",CAP 0805_2012,0805 (2012 Metric),LCSC,C45783
+4.7uF,"Multilayer Ceramic Capacitors MLCC - SMD/SMT 4.7uF 25V 0805 RoHS
+",C6,CAP 0805_2012,0805 (2012 Metric),LCSC,C1779
+2.2uF,"Multilayer Ceramic Capacitors MLCC - SMD/SMT 2.2uF 50V 0805 RoHS
+","C7, C8",CAP 0805_2012,0805 (2012 Metric),LCSC,C49217
+220nF,"Multilayer Ceramic Capacitors MLCC - SMD/SMT 220nF 50V 0805 RoHS
+",C9,CAP 0805_2012,0805 (2012 Metric),LCSC,C5378
+33nF,"Multilayer Ceramic Capacitors MLCC - SMD/SMT 33nF 50V 0805 RoHS
+",C11,CAP 0805_2012,0805 (2012 Metric),LCSC,C1739
+470nF,"Multilayer Ceramic Capacitors MLCC - SMD/SMT 470nF 50V 0805 RoHS
+",C13,CAP 0805_2012,0805 (2012 Metric),LCSC,C13967
+Red,"LIGHT EMITTING DIODES (LED) RED 615~630NM 67~195MCD@20MA TOP VIEW 0805 ROHS
+",D1,LED 0805_2012 RED,0805 (2012 Metric),LCSC,C84256
+LM386,,IC2,LM386D,,LCSC,C23573
+22k,Chip Resistor - Surface Mount 22KOhms ?1% 1/8W 0805 RoHS,"R2, R5, R8",RES 0805_2012,0805 (2012 Metric),LCSC,C17560
+100k,"Chip Resistor - Surface Mount 100KOhms ?1% 1/8W 0805 RoHS
+","R3, R7",RES 0805_2012,0805 (2012 Metric),LCSC,C17407
+5.6K,"Chip Resistor - Surface Mount 5.6KOhms ?1% 1/8W 0805 RoHS
+","R6, R11, R12",RES 0805_2012,0805 (2012 Metric),LCSC,C4382
+33,"Chip Resistor - Surface Mount 33Ohms ?1% 1/8W 0805 RoHS
+","R9, R10",RES 0805_2012,0805 (2012 Metric),LCSC,C17634
+15k,"Chip Resistor - Surface Mount 15KOhms ?1% 1/8W 0805 RoHS
+",R13,RES 0805_2012,0805 (2012 Metric),LCSC,C17475
+91k,"Chip Resistor - Surface Mount 91KOhms ?1% 1/8W 0805 RoHS
+",R14,RES 0805_2012,0805 (2012 Metric),LCSC,C17866
+5.1,"Chip Resistor - Surface Mount 5.1Ohms ?1% 1/8W 0805 RoHS
+",R16,RES 0805_2012,0805 (2012 Metric),LCSC,C17724
+180,"Chip Resistor - Surface Mount 180Ohms ?1% 1/8W 0805 RoHS
+",R17,RES 0805_2012,0805 (2012 Metric),LCSC,C25270
